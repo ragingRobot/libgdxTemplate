@@ -1,0 +1,13 @@
+[
+{
+	class: com.intelligentbeans.boilerplate.JSONGameItem,
+	itemType: LevelDetail,
+	background:"data/backgrounds/background.jpg",
+	platformType: "platforms",
+	lights: false,
+	paralaxName: "data/paralax/paralaxCave.png",
+	music: "data/sounds/electricfinale.mp3"
+	
+
+}
+]
